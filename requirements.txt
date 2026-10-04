@@ -1,5 +1,5 @@
 asgiref==3.12.1
-Django
+Django==5.2.8 # было пусто но по совету поставил версию  pip show Django
 django-bootstrap5==26.3
 sqlparse==0.6.0
 tzdata==2026.3
